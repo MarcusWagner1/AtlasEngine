@@ -17,4 +17,5 @@ Next goals
 
   So far has been alot of fun and have been just taking it one step at a time. But it has been worth it just to get this one singular triangle drawn, in a setting that would take me only  50-100 lines of code in OPENGL. 
 
-Topics Explored
+![image](https://github.com/user-attachments/assets/5c668365-852b-474e-a494-22cc1de99424)
+
