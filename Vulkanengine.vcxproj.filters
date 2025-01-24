@@ -13,6 +13,15 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\vertexShaders">
+      <UniqueIdentifier>{2dc80463-34cd-4333-b2fe-1c0dd5838d60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\fragmentShaders">
+      <UniqueIdentifier>{d7a33c6d-dc53-4a89-8904-631e9efa5e95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\shaders">
+      <UniqueIdentifier>{de187f06-dd32-47de-a178-9fbae559a48e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -26,5 +35,13 @@
     <ClInclude Include="validation_layer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="vshader.vert">
+      <Filter>Source Files\shaders</Filter>
+    </None>
+    <None Include="fshader.frag">
+      <Filter>Source Files\shaders</Filter>
+    </None>
   </ItemGroup>
 </Project>
