@@ -1,4 +1,4 @@
-Hello, This is a personal project I am working on. As of 1/23/2025 I have displayed my first drawn triangle with color blending using the VulkanSDK. 
+Hello, This is a personal project I am working on. As of 1/23/2025 I have displayed my first drawn triangle with color blending using the VulkanSDK. WARNING (In order for this project to run, the VulkanSDK must be downloaded onto your C drive in order for the environmental variables to work for the project to run) <- This will be handled later so that those downloading dont need to download the SDK but that is an issue for when my project is alot cooler than what is it rn.
 
 Alot of my code is obtained from the website https://vulkan-tutorial.com/
 
